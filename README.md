@@ -15,23 +15,27 @@ Repository นี้จัดทำขึ้นเพื่อรวบรวม
 
 ---
 
-## รายชื่อโปรเจกต์ทั้งหมด (Featured Projects)
+## Featured Projects
 
-### 📱 หมวดหมู่ Mobile Applications (Flutter)
-| ชื่อโปรเจกต์ | รายละเอียด | ลิงก์ไปยังโค้ดฉบับเต็ม |
-| :--- | :--- | :--- |
-| 🎵 **MuMood** | แอปพลิเคชันรีวิวเพลง เชื่อมต่อกับ Spotify API เพื่อดึงข้อมูลเพลงแบบ Real-time | [ดูโค้ดที่นี่]([ใส่ลิงก์_Repo_MuMood_ของคุณตรงนี้](https://github.com/wanmaimarkz/sn-testgeneration-app)) |
-| 💬 **Discord UI Clone** | โปรเจกต์ฝึกฝนการจัดโครงสร้างหน้าจอและจำลอง UI ของแอปพลิเคชัน Discord | [ดูโค้ดที่นี่](ใส่ลิงก์_Repo_DiscordClone_ของคุณตรงนี้) |
+### MuMood - Music Review Application
+แอปพลิเคชันสำหรับรีวิวและแชร์ความรู้สึกเกี่ยวกับเพลง ตัวแอปพลิเคชันเชื่อมต่อกับ Spotify API เพื่อดึงข้อมูลเพลงและเพลย์ลิสต์แบบ Real-time
+* **Frontend:** Flutter (Mobile UI)
+* **Backend:** FastAPI
+* **Database:** PostgreSQL
+* **Repository:** 🔗 [pp811010/MuMood-musicReview](https://github.com/pp811010/MuMood-musicReview)
 
-### ⚡ หมวดหมู่ Backend & AI Automation
-| ชื่อโปรเจกต์ | รายละเอียด | ลิงก์ไปยังโค้ดฉบับเต็ม |
-| :--- | :--- | :--- |
-| 🤖 **AI Test System** | ระบบสร้าง Test Case และสคริปต์ทดสอบอัตโนมัติด้วย LLM (Llama) เพื่อลดเวลาทำ Manual Testing | [ดูโค้ดที่นี่](ใส่ลิงก์_Repo_AITestSystem_ของคุณตรงนี้) |
-| 📝 **Discovery Piscine** | คลังรวมแบบฝึกหัดแก้ไขโจทย์ปัญหา พัฒนาทักษะภาษา Python และ Git Management | [ดูโค้ดที่นี่](ใส่ลิงก์_Repo_DiscoveryPiscine_ของคุณตรงนี้) |
+### AI Test Generation App
+โปรเจกต์พัฒนาเครื่องมือช่วยเจน Test Case และเขียน Test Script จากข้อกำหนดของซอฟต์แวร์ โดยการนำ Large Language Model (LLM) เข้ามาช่วยจัดการเพื่อลดเวลาและขั้นตอนการทำ Manual Testing ให้เร็วขึ้น
+* **Tech Stack:** Python, LLM integration
+* **Repository:** 🔗 [wanmaimarkz/sn-testgeneration-app](https://github.com/wanmaimarkz/sn-testgeneration-app)
+
+### Sport Activity Booking
+ระบบจองสนามและกิจกรรมกีฬา สำหรับจัดการตารางเวลา การจอง และเช็คสถานะความว่างของสนามแบบออนไลน์
+* **Repository:** 🔗 [pp811010/SportActivityBooking](https://github.com/pp811010/SportActivityBooking)
 
 ---
 
-## 📈 สถิติ GitHub ของฉัน
+## 📈 GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=wanmaimarkz&show_icons=true&theme=radial&hide_border=true" alt="GitHub Stats" height="150" />
 </p>
