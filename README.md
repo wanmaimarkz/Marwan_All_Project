@@ -17,8 +17,6 @@ Repository นี้จัดทำขึ้นเพื่อรวบรวม
 
 ## Featured Projects
 
-## Featured Projects
-
 ### MUMOOD | Music Discovery & Social Review App
 แอปพลิเคชันบนมือถือแบบ Cross-platform สำหรับรีวิวเพลงตามอารมณ์ โดยผู้ใช้สามารถให้คะแนนเพลงผ่านมิติต่างๆ เช่น จังหวะ (Beat), เนื้อเพลง (Lyric) และ Mood ผ่านสีสันที่เลือก
 * **Key Features & Dev Details:**
