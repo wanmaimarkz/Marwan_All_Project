@@ -44,9 +44,3 @@ Repository นี้จัดทำขึ้นเพื่อรวบรวม
 * **Tech Stack:** HTML, Tailwind CSS, JavaScript, Django, PostgreSQL, Gmail API
 * **Repository:** 🔗 [pp811010/SportActivityBooking](https://github.com/pp811010/SportActivityBooking)
 
----
-
-## GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=wanmaimarkz&show_icons=true&theme=radial&hide_border=true" alt="GitHub Stats" height="150" />
-</p>
