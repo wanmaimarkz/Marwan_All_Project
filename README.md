@@ -17,6 +17,15 @@ Repository นี้จัดทำขึ้นเพื่อรวบรวม
 
 ## Featured Projects
 
+### BloodPrompt | Blood Donation Booking Web App
+เว็บแอปพลิเคชันสำหรับระบบจองคิวบริจาคเลือดออนไลน์ เพื่ออำนวยความสะดวกให้ผู้บริจาคสามารถเลือกวัน เวลา และจัดการนัดหมายล่วงหน้าได้อย่างสะดวกรวดเร็ว
+* **Key Features & Dev Details:**
+  * พัฒนาฝั่ง Frontend และจัดโครงสร้างแอปพลิเคชันด้วย SvelteKit เพื่อเน้นความเร็วในการโหลดและการทำ Server-Side Rendering (SSR)
+  * ใช้ TypeScript ในการเขียนควบคุม Logic ทั้งหมดเพื่อลด Error ในระบบและช่วยให้จัดการ Data Flow ได้แม่นยำขึ้น
+  * ออกแบบและตกแต่งหน้าจอแบบ Responsive UI ด้วย Tailwind CSS เพื่อให้ผู้ใช้งานเข้าถึงผ่านมือถือได้ง่ายและมี UI/UX ที่ลื่นไหล
+* **Tech Stack:** Svelte, SvelteKit, TypeScript, Tailwind CSS
+* **Repository:** 🔗 [DrowningToast/BloodPrompt](https://github.com/DrowningToast/BloodPrompt)
+
 ### MUMOOD | Music Discovery & Social Review App
 แอปพลิเคชันบนมือถือแบบ Cross-platform สำหรับรีวิวเพลงตามอารมณ์ โดยผู้ใช้สามารถให้คะแนนเพลงผ่านมิติต่างๆ เช่น จังหวะ (Beat), เนื้อเพลง (Lyric) และ Mood ผ่านสีสันที่เลือก
 * **Key Features & Dev Details:**
